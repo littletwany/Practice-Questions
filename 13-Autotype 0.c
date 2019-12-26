@@ -7,7 +7,6 @@
 解释：调用函数后，输入的数组将被修改为：[1,0,0,2,3,0,0,4]
 */
 void duplicateZeros(int* arr, int arrSize){
-void duplicateZeros(int* arr, int arrSize){
     int i;
     int j;
     
@@ -20,6 +19,4 @@ void duplicateZeros(int* arr, int arrSize){
         }
     }
 }
-}
-}
-}
+
